@@ -1,0 +1,6 @@
+customtkinter==5.2.2
+darkdetect==0.8.0
+dnspython==2.6.1
+mongoengine==0.28.2
+packaging==24.1
+tk==0.1.0

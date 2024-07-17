@@ -1,0 +1,2 @@
+username = None
+category = None
