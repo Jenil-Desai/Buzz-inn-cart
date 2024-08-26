@@ -52,7 +52,7 @@ _Caption: Browse product categories on the home page._
 
 ## Version Releases
 
-To view the version releases, please visit our [Notion Version Releases Page](https://decorous-boar-5cd.notion.site/Version-Releases-Buzz-inn-Cart-5530b52cf85f48d9b198e4f39f361977?pvs=4).
+To view the version releases, please visit our [Notion Version Releases Page](https://jenil-desai.notion.site/Version-Releases-Buzz-inn-Cart-5530b52cf85f48d9b198e4f39f361977?pvs=4).
 
 ## Contributing
 
