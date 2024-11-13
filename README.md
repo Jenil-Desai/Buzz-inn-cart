@@ -1,86 +1,112 @@
-# Buzz'inn Cart
+# 🌐 Buzz'In Cart
 
-Welcome to **Buzz'inn Cart**! An intuitive and seamless shopping application built with Python, MongoDB, and Tkinter.
-
-## Features
-
-- **User Authentication**: Secure login and signup functionality.
-- **Product Browsing**: Browse product categories and add items to your cart.
-- **Cart Management**: Add products to your cart, clear the cart, and proceed to checkout.
-- **Admin Dashboard**: Admin interface for adding products and categories.
-
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Jenil-Desai/Buzz-inn-cart.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd buzz-inn-cart
-   ```
-3. Install the required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-## Usage
-
-1. Run the application:
-   ```bash
-   python app.py
-   ```
-2. Follow the on-screen instructions to explore and use the application.
-
-## Technologies Used
-
-- **Python**: Core programming language
-- **MongoDB**: Database for storing user and product data
-- **Tkinter**: GUI library for creating the application interface
-- **CustomTkinter**: Enhancing Tkinter with custom themes and widgets
-
-## Screenshots
-
-![Mockup](screenshots/Mockup.png)
-_Caption: An intuitive GUl software designed to streamline the sale of every product imaginable._
-
-![Login](screenshots/login.png)
-_Caption: Secure login and signup functionality._
-
-![Home Page](screenshots/homepage.png)
-_Caption: Browse product categories on the home page._
-
-## Version Releases
-
-To view the version releases, please visit our [Notion Version Releases Page](https://jenil-desai.notion.site/Version-Releases-Buzz-inn-Cart-5530b52cf85f48d9b198e4f39f361977?pvs=4).
-
-## Contributing
-
-We welcome contributions! Please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch:
-   ```bash
-   git checkout -b feature/your-feature-name
-   ```
-3. Make your changes and commit them:
-   ```bash
-   git commit -m 'Add your feature'
-   ```
-4. Push to the branch:
-   ```bash
-   git push origin feature/your-feature-name
-   ```
-5. Open a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-For any inquiries or feedback, feel free to reach out at jenildev91@gmail.com.
+Welcome to **Buzz'In Cart**! This repository includes an intuitive and seamless shopping application built with Python, MongoDB, and Tkinter.
 
 ---
 
-_Buzz'inn Cart: Where Deals Take Flight_
+## 📑 Table of Contents
+
+1. [Overview](#-overview)
+2. [Technologies](#-technologies)
+3. [Packages & Libraries Used](#-packages--libraries-used)
+4. [Getting Started](#-getting-started)
+5. [Setup](#-setup)
+6. [Features](#-features)
+7. [Demo & Screenshots](#-demo--screenshots)
+8. [Acknowledgments](#-acknowledgments)
+9. [License](#-license)
+
+---
+
+## 🌟 Overview
+
+**Description**: Welcome to Buzz'In Cart! An intuitive and seamless shopping application built with Python, MongoDB, and Tkinter.
+
+---
+
+## 💻 Technologies
+
+Below is a breakdown of the core technologies used in this project.
+
+| 🐍 Python   |
+| ----------- |
+| **MongoDB** |
+
+---
+
+## 📦 Packages / Libraries Used
+
+This project uses the following essential libraries and packages:
+
+| Package / Library | Purpose                      |
+| ----------------- | ---------------------------- |
+| `Tkinter`         | GUI toolkit                  |
+| `Custom Tkinter`  | Customized UI components     |
+| `MongoEngine`     | Object-Document Mapper (ODM) |
+
+---
+
+## 🚀 Getting Started
+
+Follow these steps to set up the project in your local environment:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Jenil-Desai/buzzin-cart.git
+   ```
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+3. Set Mongo Database URL In `app.py` file.
+
+---
+
+## ⚙️ Setup
+
+1. Run the application:
+   ```bash
+   python app.py #or python3 app.py
+   ```
+2. Explore the GUI.
+
+---
+
+## 🎯 Features
+
+Explore the unique features available in this application:
+
+- **User Authentication**
+- **Product Browsing**
+- **Cart Management**
+- **Admin Dashboard**
+- **Add Products**
+- **Add Category**
+
+---
+
+## 🔗 Demo & Screenshots
+
+| Mock Up                              | Home Page                                | Login Page                              |
+| ------------------------------------ | ---------------------------------------- | --------------------------------------- |
+| ![Mock Up](./screenshots/Mockup.png) | ![Home Page](./screenshots/homepage.png) | ![Log In Page](./screenshots/login.png) |
+
+---
+
+## 🙏 Acknowledgments
+
+We’d like to thank the following contributors and resources:
+
+- **[Tkinter Docs](https://docs.python.org/3/library/tkinter.html)** - Documentation for Tkinter
+- **[Custom Tkinter Docs](https://customtkinter.com/)** - Documentation for Custom Tkinter
+- **[Mongo Engine Docs](http://mongoengine.org/)** - Documentation for Mongo Engine
+
+---
+
+## 📜 License
+
+This project is licensed under the [MIT License](LICENSE). See the [LICENSE](LICENSE) file for details.
+
+---
+
+### Enjoy exploring and contributing to Buzz'In Cart!
